@@ -65,5 +65,13 @@
   {% endif %}
 
   {% include fonts.html %}
-  {% include google_analytics.html %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BWJ899073E"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BWJ899073E');
+  </script>
 </head>
