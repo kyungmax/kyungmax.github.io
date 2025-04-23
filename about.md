@@ -10,7 +10,7 @@ In 2023, I received my bachelor’s degrees in Computer Science and Engineering 
 - **Graduate Research Assistant** at [SNU VLDB Lab.](https://sites.google.com/view/snu-vldb-lab/home?authuser=0) (Mar. 2025 - Present)
 - **Data Engineer** at [Kakao Corporation](https://www.kakaocorp.com/page/?lang=ENG&tab=all) (Dec. 2021 - Feb. 2025)
 - **Software Engineer Intern** at [Kakao Corporation](https://www.kakaocorp.com/page/?lang=ENG&tab=all) (Summer, 2021)
-- **Research Intern** at Purdue University (Aug. 2018 - Dec. 2018)
-- **Research Intern** at SKKU (Mar. 2018 - Aug. 2019)
+- **Undergraduate Research Assistant** at Purdue University (Aug. 2018 - Dec. 2018)
+- **Undergraduate Research Assistant** at SKKU (Mar. 2018 - Aug. 2019)
 
-[[CV]](assets/cv/cv.pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=S643eSgAAAAJ&hl=en) / [[Github]](https://github.com/lufovic77) / [[email]](mailto:kyungminkim@snu.ac.kr)
+[[CV]](assets/cv/cv.pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=S643eSgAAAAJ&hl=en) / [[Github]](https://github.com/kyungmax) / [[email]](mailto:kyungminkim@snu.ac.kr)
