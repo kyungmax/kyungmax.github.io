@@ -17,6 +17,9 @@ In 2023, I received my bachelor’s degrees in Computer Science and Engineering 
 You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}</span>snu<span class="highlight">{dot}</span>ac<span class="highlight">{dot}</span>kr
 </span>
 
+[[CV]](assets/cv/cv.pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=S643eSgAAAAJ&hl=en) / [[Blog]](https://medium.com/@lufovic77
+) / [[Github]](https://github.com/kyungmax)
+
 # Experiences
 - **Graduate Research Assistant** at [SNU VLDB Lab.](https://sites.google.com/view/snu-vldb-lab/home?authuser=0) (Mar. 2025 - Present)
 - **Data Engineer** at [Kakao Corporation](https://www.kakaocorp.com/page/?lang=ENG&tab=all) (Dec. 2021 - Feb. 2025)
@@ -24,5 +27,23 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
 - **Undergraduate Research Intern** at Purdue University (Aug. 2018 - Dec. 2018)
 - **Undergraduate Research Intern** at SKKU (Mar. 2018 - Aug. 2019)
 
-[[CV]](assets/cv/cv.pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=S643eSgAAAAJ&hl=en) / [[Blog]](https://medium.com/@lufovic77
-) / [[Github]](https://github.com/kyungmax)
+# Publications
+- [**Performance evaluation on concurrency control techniques of main-memory DBMS based on log device**](assets/pubs/5.pdf)   
+  Kyungmin Kim, Jonghyeok Park, Sang-Won Lee  
+  *Korean DataBase Conference (KDBC 2022)*, Nov. 2022
+
+- [**Analyzing the range of angles of a solar panel to detect defective cells, using a UAV**](assets/pubs/4.pdf)
+  Kyungmin Kim, Yoojin Choi, Keonyoung Shim, Hyewon Jeon, Jane Commerford, Eric T. Matson  
+  *Third IEEE International Conference on Robotic Computing (IRC 2019)*, Feb. 2019
+
+- [**Analysis of MySQL/InnoDB Lock Contention on TPC-C Workload**](assets/pubs/3.pdf)   
+  Kyungmin Kim, Jong-Hyeok Park, Mijin An, Sang-Won Lee  
+  *Korea Computer Congress (KCC 2019)*, Jul. 2019
+
+- [**SQLite Database Engine with PMDK Library**](assets/pubs/2.pdf)   
+  Jong-Hyeok Park, Kyungmin Kim, Gihwan Oh, Sang-Won Lee  
+  *Korean DataBase Conference (KDBC 2018)*, Oct. 2018
+
+- [**Optimizing MySQL/InnoDB by Multi-Streamed data journal**](assets/pubs/1.pdf) 
+  Soyee Choi, Dong Hyun Kang, Kyung-Min Kim, Sung-Youn Seo, Sang-Won Lee, Young Ik Eom  
+  *Korea Computer Congress (KCC 2018)*, Jul. 2018
