@@ -28,11 +28,11 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
 - **Undergraduate Research Intern** at SKKU (Mar. 2018 - Aug. 2019)
 
 # Publications
-- [**Performance evaluation on concurrency control techniques of main-memory DBMS based on log device**](assets/pubs/5.pdf)   
+- [**Performance evaluation on concurrency control techniques of main-memory DBMS based on log device**](assets/pubs/4.pdf)   
   Kyungmin Kim, Jonghyeok Park, Sang-Won Lee  
   *Korean DataBase Conference (KDBC 2022)*, Nov. 2022
 
-- [**Analyzing the range of angles of a solar panel to detect defective cells, using a UAV**](assets/pubs/4.pdf)
+- [**Analyzing the range of angles of a solar panel to detect defective cells, using a UAV**](https://ieeexplore.ieee.org/document/8675630)   
   Kyungmin Kim, Yoojin Choi, Keonyoung Shim, Hyewon Jeon, Jane Commerford, Eric T. Matson  
   *Third IEEE International Conference on Robotic Computing (IRC 2019)*, Feb. 2019
 
@@ -44,6 +44,6 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
   Jong-Hyeok Park, Kyungmin Kim, Gihwan Oh, Sang-Won Lee  
   *Korean DataBase Conference (KDBC 2018)*, Oct. 2018
 
-- [**Optimizing MySQL/InnoDB by Multi-Streamed data journal**](assets/pubs/1.pdf) 
+- [**Optimizing MySQL/InnoDB by Multi-Streamed data journal**](assets/pubs/1.pdf)   
   Soyee Choi, Dong Hyun Kang, Kyung-Min Kim, Sung-Youn Seo, Sang-Won Lee, Young Ik Eom  
   *Korea Computer Congress (KCC 2018)*, Jul. 2018
