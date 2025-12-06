@@ -28,11 +28,12 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
 - **Undergraduate Research Intern** at SKKU (Mar. 2018 - Aug. 2019)
 
 # Publications
-## International Conferences & Journals
+### International Conferences & Journals
 - [**Analyzing the range of angles of a solar panel to detect defective cells, using a UAV**](https://ieeexplore.ieee.org/document/8675630)   
   **Kyungmin Kim**, Yoojin Choi, Keonyoung Shim, Hyewon Jeon, Jane Commerford, Eric T. Matson  
   *Third IEEE International Conference on Robotic Computing (IRC 2019)*, Feb. 2019
-## Domestic Conferences (Korean)
+
+### Domestic Conferences (Korean)
 - [**Supporting Materialized Views on Data Lakehouses**](assets/pubs/5.pdf)   
   **Kyungmin Kim**, Sang-Won Lee  
   *Korean DataBase Conference (KDBC 2025)*, Nov. 2025
