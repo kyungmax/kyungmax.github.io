@@ -5,6 +5,11 @@ color: #efd0a2;
 font-family: 'Courier New', monospace; /* 다른 폰트 */
 font-weight: bold;
 }
+.award-badge {
+color: #d9534f; 
+font-weight: bold;
+font-size: 0.9em;
+}
 
 </style>
 
@@ -34,7 +39,7 @@ You can reach me at: <span class="email">kyungminkim<span class="highlight">{at}
   *Third IEEE International Conference on Robotic Computing (IRC 2019)*, Feb. 2019
 
 ### Domestic Conferences (Korean)
-- [**Supporting Materialized Views on Data Lakehouses**](assets/pubs/5.pdf)   
+- [**Supporting Materialized Views on Data Lakehouses**](assets/pubs/5.pdf) <span class="award-badge">[Best Paper Award]</span>  
   **Kyungmin Kim**, Sang-Won Lee  
   *Korean DataBase Conference (KDBC 2025)*, Nov. 2025
 
